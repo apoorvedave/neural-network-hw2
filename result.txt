@@ -1,0 +1,10 @@
+Epoch 1 train,test accuracy:	0.929516666667 0.9219
+Epoch 2 train,test accuracy:	0.9389 0.9274
+Epoch 3 train,test accuracy:	0.944583333333 0.9344
+Epoch 4 train,test accuracy:	0.946416666667 0.9338
+Epoch 5 train,test accuracy:	0.951266666667 0.9341
+Epoch 6 train,test accuracy:	0.953616666667 0.9374
+Epoch 7 train,test accuracy:	0.954083333333 0.9348
+Epoch 8 train,test accuracy:	0.956233333333 0.9364
+Epoch 9 train,test accuracy:	0.958216666667 0.9373
+Epoch 10 train,test accuracy:	0.958 0.9368
